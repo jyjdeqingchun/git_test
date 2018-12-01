@@ -5,6 +5,6 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
-        System.out.println("")
+        System.out.println("我李四怕过谁！")
     }
 }
